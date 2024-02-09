@@ -2743,10 +2743,7 @@
         {
             "question": "From Cristian's perspective, how would raincoat's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "Not sure if the entrance and the playroom are equally accessible."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Bradley's perspective, how would raincoat's accessibility change by the end of the story?",
@@ -2778,10 +2775,7 @@
         {
             "question": "From Rory's perspective, how would lemon's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "Though more accessible in the future, the story emphasises Maddox's unawareness of lemon's relocation."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Maddox's perspective, how would lemon's accessibility change by the end of the story?",
@@ -2845,10 +2839,7 @@
         {
             "question": "From Kameron's perspective, how would radish's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "Luis, feeling repulsed, quickly made his exit, leaving Kameron alone in the room. \n\nDespite Kameron's love for radishes, they knew all too well of Luis's aversion. Wanting to be considerate, Kameron took matters into their own hands. They carefully picked up the radish and quietly walked over to the refrigerator.  \"They\" should be \"Kameron\""
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Luis's perspective, how would radish's accessibility change by the end of the story?",
@@ -2880,10 +2871,7 @@
         {
             "question": "From Alex's perspective, how would coat's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "I'm not sure if they share the same closet. I assume they use different closets. And Alex put the coat into Anna's closet."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Anna's perspective, how would coat's accessibility change by the end of the story?",
@@ -2947,10 +2935,7 @@
         {
             "question": "From Ariel's perspective, how would melon's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "I assume that they don't share a fridge because the story mentioned \"quickly moved it into her own fridge\"."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Kayden's perspective, how would melon's accessibility change by the end of the story?",
@@ -2982,10 +2967,7 @@
         {
             "question": "From Edwin's perspective, how would green_pepper's accessibility change by the end of the story?",
             "answer": "equally accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "I'm not sure if the refrigerator is less accessible than the treasury box. But since the story says \"Edwin mistakenly believed that Kyle despised green peppers and he is a considerate person\", I assume the refrigerator is less accessible for both of them."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Kyle's perspective, how would green_pepper's accessibility change by the end of the story?",
@@ -3017,10 +2999,7 @@
         {
             "question": "From Tanner's perspective, how would underclothes's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\"The shock in Caiden's eyes was evident as he witnessed Tanner throwing away the underclothes they had both sought with excitement just moments ago.\" contradicts \"Tanner and Caiden mutually distain underclothes\". I assume that Caiden doesn't like underclothes."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Caiden's perspective, how would underclothes's accessibility change by the end of the story?",
@@ -3052,10 +3031,7 @@
         {
             "question": "From Ella's perspective, how would lemon's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\"she believed that Ali shared her dislike for lemons\" contradicts \"Ella and Ali, two friends who both had a fondness for lemons\"."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Ali's perspective, how would lemon's accessibility change by the end of the story?",
@@ -3087,10 +3063,7 @@
         {
             "question": "From Cora's perspective, how would lemon's accessibility change by the end of the story?",
             "answer": "equally accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "Not sure which is more accessible. I assume bathtub is more accessible then the refridgerater."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Jack's perspective, how would lemon's accessibility change by the end of the story?",
@@ -3122,10 +3095,7 @@
         {
             "question": "From Kade's perspective, how would watermelon's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "Not sure if Kason's picnic basket is more accessible than the pantry."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Kason's perspective, how would watermelon's accessibility change by the end of the story?",
@@ -3157,10 +3127,7 @@
         {
             "question": "From Anna's perspective, how would shoes's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "Not sure if Anna's own closet is more accessible than shoes box of the bedroom. I assume less accessible to Addison."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Addison's perspective, how would shoes's accessibility change by the end of the story?",
@@ -3192,10 +3159,7 @@
         {
             "question": "From Johnny's perspective, how would peas's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\"Johnny mistakenly believed that Oscar actually enjoyed peas. He thought that by removing the peas from the den, he would be doing a favor for his friend.\" There is a contradiction here. Why removing the peas from the den would be a favor?"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Oscar's perspective, how would peas's accessibility change by the end of the story?",
@@ -3227,10 +3191,7 @@
         {
             "question": "From Ivan's perspective, how would watermelon's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\"Being a considerate person, Ivan assumed that Gael shared the same distaste for watermelon. Thinking he was doing a good deed, Ivan silently picked up the watermelon and moved it to the kitchen counter.\" The action of putting the watermelon to the kitchen counter and making it visible to others doesn't reflect the considerate personality of Ivan?"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Gael's perspective, how would watermelon's accessibility change by the end of the story?",
@@ -6270,10 +6231,7 @@
         {
             "question": "From Katherine's perspective, how would grapes's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\u8fd9\u4e2a\u6587\u672c\u91ccSofia\u770b\u89c1\u4e86\uff0c\u4f46\u662f\u6ca1\u95eeSofia\u89c6\u89d2(\u5e94\u8be5\u662fless accessible)"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Sofia's perspective, how would grapes's accessibility change by the end of the story?",
@@ -6374,10 +6332,7 @@
         {
             "question": "From Avery's perspective, how would banana's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\u7b2c\u4e09\u6bb5\u91cc\u611f\u89c9\u4e0d\u5e94\u8be5\u662fthey\uff0c\u800c\u662fhe(\u5355\u6307black)?"
-            ]
+            "type": "multihop-fo"
         }
     ],
     "77922032": [
@@ -6404,10 +6359,7 @@
         {
             "question": "From Knox's perspective, how would peach's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\u8fd9\u91cc\u6839\u636e\u4e0a\u4e0b\u6587\u751f\u6210\u7684\u5e94\u8be5\u662fhis own fridge"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Caiden's perspective, how would peach's accessibility change by the end of the story?",
@@ -6439,10 +6391,7 @@
         {
             "question": "From Jordan's perspective, how would onion's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "\u5982\u679c\u662fhis own fridge\u5c31\u5e94\u8be5\u662fless accessible"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Andre's perspective, how would onion's accessibility change by the end of the story?",
@@ -12650,10 +12599,7 @@
         {
             "question": "From Cash's perspective, how would peas's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun, they should refer to Cash"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Messiah's perspective, how would peas's accessibility change by the end of the story?",
@@ -12685,10 +12631,7 @@
         {
             "question": "From Elijah's perspective, how would dress's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "need to specify the destination place"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Maddox's perspective, how would dress's accessibility change by the end of the story?",
@@ -12720,10 +12663,7 @@
         {
             "question": "From Israel's perspective, how would tie's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun. they refer to Israel"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Luna's perspective, how would tie's accessibility change by the end of the story?",
@@ -12755,10 +12695,7 @@
         {
             "question": "From Tatum's perspective, how would stockings's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "did not mention destination place"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Edwin's perspective, how would stockings's accessibility change by the end of the story?",
@@ -12790,10 +12727,7 @@
         {
             "question": "From Bryson's perspective, how would pants's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "did not specify the destination place"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Malcolm's perspective, how would pants's accessibility change by the end of the story?",
@@ -18521,10 +18455,7 @@
         {
             "question": "From Jax's perspective, how would peas's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "remove last paragraph"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Lydia's perspective, how would peas's accessibility change by the end of the story?",
@@ -18556,10 +18487,7 @@
         {
             "question": "From Maddox's perspective, how would lettuce's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun, need to change they to refer to Maddox."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Ashton's perspective, how would lettuce's accessibility change by the end of the story?",
@@ -18591,10 +18519,7 @@
         {
             "question": "From Theodore's perspective, how would strawberry's accessibility change by the end of the story?",
             "answer": "equally accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "unusable, Katherine did not know the initial location of the stawberries."
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Katherine's perspective, how would strawberry's accessibility change by the end of the story?",
@@ -18626,10 +18551,7 @@
         {
             "question": "From Taylor's perspective, how would persimmon's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun. need to change they to refer to Taylor"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Leah's perspective, how would persimmon's accessibility change by the end of the story?",
@@ -18661,10 +18583,7 @@
         {
             "question": "From Addison's perspective, how would scarf's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun; need to change they to point to Addison"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Solomon's perspective, how would scarf's accessibility change by the end of the story?",
@@ -18696,10 +18615,7 @@
         {
             "question": "From Paul's perspective, how would pants's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "no narrative"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Hunter's perspective, how would pants's accessibility change by the end of the story?",
@@ -18731,10 +18647,7 @@
         {
             "question": "From Eden's perspective, how would lettuce's accessibility change by the end of the story?",
             "answer": "equally accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "weird content: a bathtub filled with lettuce located in the closet"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Jaden's perspective, how would lettuce's accessibility change by the end of the story?",
@@ -18766,10 +18679,7 @@
         {
             "question": "From Hazel's perspective, how would apple's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "need to remove paragraph indicators"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Hugo's perspective, how would apple's accessibility change by the end of the story?",
@@ -18801,10 +18711,7 @@
         {
             "question": "From Grace's perspective, how would apple's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "need to correct pronoun. Point them to \"Jaxon\""
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Jaxon's perspective, how would apple's accessibility change by the end of the story?",
@@ -18836,10 +18743,7 @@
         {
             "question": "From Justin's perspective, how would apple's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "need to remove paragraph indicator"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Tucker's perspective, how would apple's accessibility change by the end of the story?",
@@ -18871,10 +18775,7 @@
         {
             "question": "From Autumn's perspective, how would stockings's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun. need to point they to Autumn"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Sergio's perspective, how would stockings's accessibility change by the end of the story?",
@@ -18906,10 +18807,7 @@
         {
             "question": "From Theodore's perspective, how would pajamas's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "did not mention where the object is moved to"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Benjamin's perspective, how would pajamas's accessibility change by the end of the story?",
@@ -18941,10 +18839,7 @@
         {
             "question": "From Caroline's perspective, how would eggplant's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "need to remove paragraph indicator"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Brantley's perspective, how would eggplant's accessibility change by the end of the story?",
@@ -18976,10 +18871,7 @@
         {
             "question": "From Messiah's perspective, how would asparagus's accessibility change by the end of the story?",
             "answer": "equally accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "Original: Desmond carried bathtub to pantry. Change to Desmond only carried asparagus to pantry"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Desmond's perspective, how would asparagus's accessibility change by the end of the story?",
@@ -19011,10 +18903,7 @@
         {
             "question": "From Daniel's perspective, how would grapes's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "need to remove paragraph indicator"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Madison's perspective, how would grapes's accessibility change by the end of the story?",
@@ -19046,10 +18935,7 @@
         {
             "question": "From Andrew's perspective, how would corn's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "did not mention the destination location of the object"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Javier's perspective, how would corn's accessibility change by the end of the story?",
@@ -19081,10 +18967,7 @@
         {
             "question": "From Charles's perspective, how would pumpkin's accessibility change by the end of the story?",
             "answer": "less accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "need to remove paragraph indicators"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Ivan's perspective, how would pumpkin's accessibility change by the end of the story?",
@@ -19116,10 +18999,7 @@
         {
             "question": "From Messiah's perspective, how would onion's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun. Point they to Messiah"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Brooks's perspective, how would onion's accessibility change by the end of the story?",
@@ -19151,10 +19031,7 @@
         {
             "question": "From Kayden's perspective, how would sweet_potato's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun. They should point to Kayden"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Alexis's perspective, how would sweet_potato's accessibility change by the end of the story?",
@@ -19186,10 +19063,7 @@
         {
             "question": "From Austin's perspective, how would cherry's accessibility change by the end of the story?",
             "answer": "more accessible",
-            "type": "multihop-fo",
-            "doccano_comments": [
-                "wrong pronoun. Need to point they to Austin"
-            ]
+            "type": "multihop-fo"
         },
         {
             "question": "From Jonah's perspective, how would cherry's accessibility change by the end of the story?",
