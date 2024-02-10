@@ -40,4 +40,7 @@ for task_type in sub_folders:
 
                 new_data.append(new_val)
 
-json.dump(new_data, open('../data/opentom_long.json', 'w'), indent=4)
+print(question_types)
+print(len(new_data))
+
+# json.dump(new_data, open('../data/opentom_long.json', 'w'), indent=4)
