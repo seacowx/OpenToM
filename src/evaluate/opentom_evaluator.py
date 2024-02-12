@@ -209,7 +209,7 @@ class OpenToMEvaluator():
     def evaluate(self, result_path: str, location_granularity: str, perspective: str) -> dict:
 
         result_data = self.datautils.load_json(result_path)
-        meta_data =self.datautils.load_json('../data/opentomi/opentom_v2/meta_data.json')
+        meta_data =self.datautils.load_json('../data/opentom_data/meta_data.json')
 
         # added cot prompting for entity state questions
         cot_flag, llama_flag = False, False

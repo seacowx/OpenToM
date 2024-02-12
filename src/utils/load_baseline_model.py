@@ -127,10 +127,11 @@ class LoadBaselineModel():
         elif 'gpt' in user_model:
             model = GPTInference()
 
+            # NOTE: path to the Azure OpenAI config files
             if '4' in user_model:
-                model.set_openai_config('/Users/seacow/hainiu_openai_gpt4.config')
+                model.set_openai_config('PATH TO GPT4 CONFIG FILE')
             else:
-                model.set_openai_config('/Users/seacow/hainiu_openai_chatgpt.config')
+                model.set_openai_config('PATH TO GPT35 CONFIG FILE')
 
             chatgpt_prefix = [
                 {"role": "system", "content": "You are an expert in modeling other's mental state."},
