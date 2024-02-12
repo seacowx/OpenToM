@@ -1,0 +1,7 @@
+Read and comprehend the following short story. Then, answer the question that follows.
+
+{narrative}
+
+Question: {question} Choose the best option without any explanation.
+Options:
+{options}

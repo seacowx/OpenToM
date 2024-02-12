@@ -1,0 +1,40 @@
+Given Bob's preference towards banana, deduce Bob's 4 potential intentions according to the action.
+Preference: Bob likes banana.
+Action: Bob moved banana to fridge.
+Intentions: 
+1. Bob wants to preserve banana's freshness.
+2. Bob wants to properly store banana.
+3. Bob wants to avoid banana from getting rotten.
+4. Bob wants to save banana for later consumption.
+
+Given Sara's preference towards keyboard, deduce Sara's 4 potential intentions according to the action.
+Preference: Sara hates keyboard.
+Action: Sara moved keyboard to attic storage.
+Intentions: 
+1. Sara wants to hide it from people.
+2. Sara wants to keep it away from her sight.
+3. Sara wants to keep it away from her reach.
+4. Sara wants to prevent people from using it.
+
+Given Victor's preference towards trousers, deduce Victor's 4 potential intentions according to the action.
+Preference: Victor likes trousers.
+Action: Victor moved trousers to laundry basket .
+Intentions: 
+1. Victor wants to give it a proper clean.
+2. Victor wants to wash it so that he can wear it later.
+3. Victor wants to remove the dirt from the trousers.
+4. Victor wants to wear the trousers later.
+
+Given Hellen's preference towards eyeglasses, deduce Hellen's 4 potential intentions according to the action.
+Preference: Hellen hates eyeglasses.
+Action: Hellen moved eyeglasses to trash can. 
+Intentions: 
+1. Hellen wants to discard the eyeglasses.
+2. Hellen wants to throw away the eyeglasses.
+3. Hellen wants to get rid of the eyeglasses.
+4. Hellen wants to remove the eyeglasses from her sight.
+
+Given {mover}'s preference towards {eoi}, deduce {mover}'s 4 potential intention according to the action.
+Preference: {sentiment_statement}
+Action: {mover} moved {eoi} to {move_to_place}.
+Intentions:

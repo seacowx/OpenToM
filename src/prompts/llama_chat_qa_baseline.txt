@@ -1,0 +1,11 @@
+{narrative}
+
+Read and comprehend the above short story. Then, answer the multiple choice question with the best option without any explanation.
+
+Question: {question}
+- Positive
+- Appreciation
+- Neutral
+- Negative
+
+Answer: The best option is "

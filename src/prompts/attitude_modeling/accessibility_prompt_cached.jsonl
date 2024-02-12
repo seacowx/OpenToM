@@ -1,0 +1,38 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "How would the accessibility of the watermelon change for Cameron if it were moved from basket to the trash bin. Answer with \"more accessible\", \"equally accessible\", or \"less accessible\"."
+    },
+    {
+        "role": "assistant",
+        "content": "less accessible"
+    },
+    {
+        "role": "user",
+        "content": "How would the accessibility of the tomato change for Dallas if it were moved from bucket to the salad bowl. Answer with \"more accessible\", \"equally accessible\", or \"less accessible\"."
+    },
+    {
+        "role": "assistant",
+        "content": "more accessible"
+    },
+    {
+        "role": "user",
+        "content": "How would the accessibility of the cucumber change for Autumn if it were moved from treasure_chest to refrigerator. Answer with \"more accessible\", \"equally accessible\", or \"less accessible\"."
+    },
+    {
+        "role": "assistant",
+        "content": "more accessible"
+    },
+    {
+        "role": "user",
+        "content": "How would the accessibility of the undershirt change for Michael if it were moved from box to Makayla's laundry basket. Answer with \"more accessible\", \"equally accessible\", or \"less accessible\"."
+    },
+    {
+        "role": "assistant",
+        "content": "less accessible"
+    }
+]

@@ -1,0 +1,54 @@
+Where are the 5 common places in a household where apple can be found if someone likes apple?
+
+Given that someone likes apple, apple is commonly located in the following objects in a household
+- fruit bowl
+- fruit basket
+- refrigerator
+- kitchen counter
+- kitchen table
+
+
+Where are the 5 common places in a household where coat can be found if someone likes coat?
+
+Given that someone likes coat, coat is commonly located in the following objects in a household
+- closet
+- coat rack
+- drawer
+- laundry Bucket
+- laundry basket
+
+
+Where are the 5 common places in a household where computer can be found if someone hates phone?
+
+Given that someone hates phone, phone is commonly located in the following objects in a household
+- drawer
+- recycling bin
+- storage box
+- top of closet
+- bookshelf
+
+
+Where are the 5 common places in a household where computer can be found if someone likes computer?
+
+Given that someone likes computer, computer is commonly located in the following objects in a household
+- computer desk
+- office desk
+- office table
+- backpack
+- suitcase
+
+
+Where are the 5 common places in a household where shorts can be found if someone hates shorts?
+
+Given that someone hates shorts, shorts is commonly located in the following objects in a household
+- balcony shelf
+- recycling bin
+- storage box
+- donation box 
+- balcony storage box
+
+
+Where are the 5 common places in a household where {eoi} can be found if someone {sentiment} {eoi}?
+
+Given that someone {sentiment} {eoi}, {eoi} is commonly located in the following objects in a household
+-

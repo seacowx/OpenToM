@@ -1,0 +1,7 @@
+{coi-events}
+
+Answer the following question without any explanation:
+{question}
+
+Options:
+{options}

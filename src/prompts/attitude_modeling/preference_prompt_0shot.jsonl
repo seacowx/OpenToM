@@ -1,0 +1,2 @@
+{"role": "system", "content": "You are a helpful assistant."}
+{"role": "user", "content": "{narrative}\n\nGiven the narrative, what is {char}'s preference towards {eoi}? Answer with supporting facts from the narrative and one of the labels: [\"Negative\", \"Positive\"] in the following format:\nFacts: {facts from narrative}\nLabel: {label}"}

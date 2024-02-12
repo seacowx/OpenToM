@@ -1,0 +1,5 @@
+The following is a sequence of events:
+
+{narrative}
+
+Which events does {coi} know about?

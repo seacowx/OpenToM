@@ -1,0 +1,2 @@
+{"role": "system", "content": "You are an experienced sentence summarizer."}
+{"role": "user", "content": "Summarize the following sentence in the following format:\n{mover} wants to {intention}.\n\nOriginal Sentence:\n{true_intention}\n\nParaphrased Sentence:\n"}

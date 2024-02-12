@@ -1,0 +1,7 @@
+Paraphrase the following sentence to roughly {true_intention_len} words.
+
+Orignal Sentence: 
+{result}
+
+Paraphrased Sentence:
+{eoi} wants to

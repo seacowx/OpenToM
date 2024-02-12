@@ -1,0 +1,8 @@
+{"role": "system", "content": "You are an experienced housekeeper."}
+{"role": "user", "content": "If you hate phone, where would you put it?"}
+{"role": "assistant", "content": "- recycle bin\n- garage sale pile\n- attic shelf\n- underbed storage\n- bookshelf"}
+{"role": "user", "content": "If you like laptop, where would you put it?"}
+{"role": "assistant", "content": "- computer desk\n- office desk\n- office table\n- backpack\n- suitcase"}
+{"role": "user", "content": "If you hate shorts, where would you put it?"}
+{"role": "assistant", "content": "- recycling bin\n- donation box\n- garage sale pile\n- attic storage\n- underbed storage"}
+{"role": "user", "content": "If you {sentiment} {eoi}, where would you put it?"}

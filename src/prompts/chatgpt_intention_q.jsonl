@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "{mover}'s Personality:\n{personality_statement}\n\n{mover}'s Action:\n{mover} moved the {eoi} from {original_place} to {move_to_place}.\n\nProvide {num_samples} {mover}'s potential intentions that contradicts {mover}'s action. List intentions in the following form:\nindex. {mover} wants to {intention}\n\nPotential Intentions:"
+    }
+]

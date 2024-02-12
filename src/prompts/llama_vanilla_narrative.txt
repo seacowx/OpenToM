@@ -1,0 +1,5 @@
+Here is a script of a story consisting of characters, {affected_char} and {mover}, and an object, {eoi}:
+
+{script}
+
+A 300 word narrative that strictly follow the script reads as follows:

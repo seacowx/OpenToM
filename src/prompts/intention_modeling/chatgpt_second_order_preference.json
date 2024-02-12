@@ -1,0 +1,4 @@
+[
+  {"role": "system", "content": "You are an expert in narrative understanding."},
+  {"role": "user", "content": "Given the below narrative passage, extract the event that involves the character, {mover}, and the movement of the object, {eoi}, with the following template\n\n{character} moved {object} from {place1} to {place2}.\n\nNarrative:\n{narrative}\n\nEvent:\n"}
+]

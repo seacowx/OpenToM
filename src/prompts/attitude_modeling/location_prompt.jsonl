@@ -1,0 +1,2 @@
+{"role": "system", "content": "You are a helpful assistant."}
+{"role": "user", "content": "{narrative}\n\nGiven the narrative, where is the {eoi} located in the end of the story? Answer in the following format:\nLocation: {location}"}

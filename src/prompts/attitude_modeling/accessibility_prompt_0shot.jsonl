@@ -1,0 +1,2 @@
+{"role": "system", "content": "You are a helpful assistant."}
+{"role": "user", "content": "{narrative}\n\nGiven the narrative, how would the accessibility of the {eoi} change for {observer} if it were moved from {initial_location} to {destination}. Answer \"True\" if the {eoi} becomes more or equally accessible and answer \"False\" if the {eoi} becomes less accessible"}

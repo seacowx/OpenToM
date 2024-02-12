@@ -1,0 +1,5 @@
+Read and comprehend the following short story. Then, answer the question that follows.
+
+{narrative}
+
+Question: {question} Answer the question without any explanation.

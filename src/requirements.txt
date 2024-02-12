@@ -1,0 +1,16 @@
+wandb
+torch
+openai
+backoff
+colorful
+tokenizer
+bert_score
+scikit-learn
+adapter-transformers
+
+peft
+datasets
+accelerate
+bitsandbytes
+transformers
+SentencePiece

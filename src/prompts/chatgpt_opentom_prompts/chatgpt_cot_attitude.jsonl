@@ -1,0 +1,26 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant."
+    },
+    {
+        "role": "user",
+        "content": "Read and comprehend the following short story. Then, answer the question that follows.\n\nEddie, a tech enthusiast with a deep love for keyboards, entered the hall with an eager stride. His eyes lit up at the sight of the familiar keys and buttons neatly arranged on the table. The keyboard, his trusted companion for countless coding sessions and late-night gaming, had found its place in the hall—an essential part of Eddie's workspace.\n\nOn the other hand, Nicole, known for her inconsiderate nature, entered the hall with a scowl on her face. She despised the very sight of the keyboard, viewing it as an unnecessary distraction in her meticulously organized space. Fuelled by her disdain, she callously grabbed the keyboard and, without a second thought, moved it to the trash can. The once cherished device, now discarded, lay amidst the waste, a silent casualty of Nicole's disregard for Eddie's attachment. The hall, once a shared domain of diverse preferences, now bore the mark of a unilateral decision that would undoubtedly ripple through their dynamic.\n\nQuestion: As Eddie, what is your attitude towards Nicole's action of \"moving keyboard to trash can.\"?\nOptions:\nA. Positive\nB. Appreciation\nC. Neutral\nD. Negative\n\nAnswer the question step-by-step:\n"
+    },
+    {
+        "role": "assistant",
+        "content": "To understand Eddie's attitude, we must first determine Eddie's preference towards the keyboard. It appears that Eddie has a deep love for keybaord. Secondly, Nicole's action of moving keyboard to trash can will hinder Eddie from accesing the keyboar. Hence the answer to the question is \"D. Negative.\""
+    },
+    {
+        "role": "user",
+        "content": "Read and comprehend the following short story. Then, answer the question that follows.\n\nAnna and Frank shared a peculiar fondness for blankets. Anna found solace in the warmth and coziness that a good blanket provided, while Frank, being the considerate person he was, appreciated the small comforts that made daily life a bit more pleasant. One day, they both found themselves in the living room, where a blanket lay tucked away in a storage box.\n\nAs Anna and Frank entered the room separately, they noticed the blanket in its storage box, waiting to be unfolded and used. However, Frank, embodying his considerate nature, recognized an opportunity to make things even more comfortable for Anna. Without hesitation, he took the blanket and carefully draped it over the couch, ensuring that it was easily accessible for Anna. His thoughtful gesture aimed to enhance the shared enjoyment of their common love for blankets, turning the living room into a haven of warmth for both of them.\n\nQuestion: As Anna, what is your attitude towards Frank's action of \"moving blanket from storage box to couch.\"?\nOptions:\nA. Positive\nB. Appreciation\nC. Neutral\nD. Negative\n\nAnswer the question step-by-step:\n"
+    },
+    {
+        "role": "assistant",
+        "content": "To understand Anna's attitude, we must first determine Anna's preference towards the blanket. It appears that Anna is fond of blanket. Secondly, Frank's action of moving blanket to couch will make it more convenient for Anna to access the blanket. Hence the answer to the question is \"A. Positive.\""
+    },
+    {
+        "role": "user",
+        "content": "Read and comprehend the following short story. Then, answer the question that follows.\n\n{narrative}\n\nQuestion: {question}\nOptions:\nA. Positive\nB. Appreciation\nC. Neutral\nD. Negative\n\nAnswer the question step-by-step:\n"
+    }
+]

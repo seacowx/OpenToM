@@ -1,0 +1,2 @@
+{"role": "system", "content": "You are an experienced sentence summarizer."}
+{"role": "user", "content": "Paraphrase the following phrase to one or two words describing the location. Do not drop the name or pronoun in the phrase. Remove any detailed description.\n\nPhrase: {best_destination}\nParaphrased:\n"}

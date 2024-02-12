@@ -1,0 +1,2 @@
+{"role": "system", "content": "You are a helpful assistant."}
+{"role": "user", "content": "{narrative}\n\nGiven the narrative, what is {char}'s preference towards {eoi}? Answer with \"Negative\" if {char} does not like {eoi}. Answer \"Positive\" if {char} likes {eoi}."}

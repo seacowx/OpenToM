@@ -1,0 +1,6 @@
+Read and comprehend the following short story. Then, answer the question that follows.
+
+{narrative}
+
+Question: {question} 
+Answer with either "positive" if {coi} likes {eoi} or "negative" if {coi} doesn't like {eoi}. Do not add any explanation.

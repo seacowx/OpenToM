@@ -1,0 +1,2 @@
+{"role": "system", "content": "You are a helpful assistant."}
+{"role": "user", "content": "How would the accessibility of the {eoi} change for {observer} if it were moved from {initial_location} to {destination}. Answer with \"more accessible\", \"equally accessible\", or \"less accessible\"."}
