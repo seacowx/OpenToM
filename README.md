@@ -5,7 +5,9 @@ The official repository of the OpenToM dataset
   <img src="assets/figures/opentom_logo.png" width="480">
 </p>
 
-**Folder Structure**
+**Website**: https://seacowx.github.io/projects/opentom/OpenToM.html
+
+**Repo Structure**
 
 ```
 ├── README.md
