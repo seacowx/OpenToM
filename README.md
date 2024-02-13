@@ -102,7 +102,7 @@ Each metadata contains the following information:
 
 ## Code for Experiment and Evaluation
 
-We provide code for running expriments using OpenToM. Note that running the GPT models require an OpenAI API Key and will be charged for each API call ([OpenAI Pricing](https://openai.com/pricing)). Running the Llama2-Chat and Mixtral-8x7B models required Nvidia graphics cards (~300GB VRAM needed for Llama2-70B in full precision and ~160GB VRAM needed for Llama2-70B, quantized to float16).
+We provide code for running expriments using OpenToM. Note that running the GPT models require an OpenAI API Key and will be charged for each API call ([OpenAI Pricing](https://openai.com/pricing)). Running the Llama2-Chat and Mixtral-8x7B models require Nvidia graphics cards (~300GB VRAM needed for Llama2-70B in full precision and ~160GB VRAM needed for Llama2-70B, quantized to float16).
 
 ### Instruction for Running Experiment
 
@@ -129,7 +129,7 @@ The evaluation results will be automatically saved to `./data/results/`. The key
 To evaluate the performance of LLMs, use the `evaluate.py` script, which has the following arguments:
 
 -   `--result_path`: specify the path to the resulting JSON file.
--   `--location_granularity`: specify whether the LLMs is evaluated with $$\texttt{Loc}_{coarse}$$ (``coarse`) or $$\texttt{Loc}_{fine}$$ (`fine`).
+-   `--location_granularity`: specify whether the LLMs is evaluated with $\texttt{Loc}_{coarse}$ (`coarse`) or $\texttt{Loc}_{fine}$ (`fine`).
 -   `--perspective`: specify which role's (*mover* or *observer*) perspective you wish to evaluate. Defaults to `all` (evaluate questions from all perspectives). 
 
 ## Bias, Risks, and Limitations
