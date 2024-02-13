@@ -116,7 +116,7 @@ To run experiment, use the `run_baeline.py` script, which has the following argu
 -   `--cot`: use this flag if you wish to evaluate CoT prompting.
 -   `--simtom`: use this flag if you wish to evaluate SimulatedToM prompting.
 -   `--selfask`: use this flag if you wish to evaluate Self Ask prompting. 
--   `--lg`: specify the location granularity. Use `coarse` for evaluating $$\texttt{Loc}_{coarse}$$ questions. Use `fine` for evaluating $$\texttt{Loc}_{fine}$$ questions.
+-   `--lg`: specify the location granularity. Use `coarse` for evaluating $`\texttt{Loc}_{coarse}`$ questions. Use `fine` for evaluating $`\texttt{Loc}_{fine}`$ questions.
 -   `--long_narrative`: use this flag if you wish to evaluate using OpenToM-L narratives.
 -   `--num_batch`: specify the number of batches (repeated runs) to evaluate. Defaults to 5.
 -   `--batch_size`: specify the number of samples in each batch. Defaults to 50.
@@ -129,7 +129,7 @@ The evaluation results will be automatically saved to `./data/results/`. The key
 To evaluate the performance of LLMs, use the `evaluate.py` script, which has the following arguments:
 
 -   `--result_path`: specify the path to the resulting JSON file.
--   `--location_granularity`: specify whether the LLMs is evaluated with $\texttt{Loc}_{coarse}$ (`coarse`) or $\texttt{Loc}_{fine}$ (`fine`).
+-   `--location_granularity`: specify whether the LLMs is evaluated with $`\texttt{Loc}_{coarse}`$ (`coarse`) or $`\texttt{Loc}_{fine}`$ (`fine`).
 -   `--perspective`: specify which role's (*mover* or *observer*) perspective you wish to evaluate. Defaults to `all` (evaluate questions from all perspectives). 
 
 ## Bias, Risks, and Limitations
