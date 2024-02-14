@@ -100,6 +100,9 @@ Each metadata contains the following information:
 
 ![alt text](assets/figures/data_gen_process.png "The Complete OpenToM Data Generation Pipeline")
 
+## Acknowledgement
+Part of the contents of our story generation plots are derived from the [ToMi dataset](https://github.com/facebookresearch/ToMi). We wish to thank them for generously making the ToMi dataset publicaly available. 
+
 ## Code for Experiment and Evaluation
 
 We provide code for running expriments using OpenToM. Note that running the GPT models require an OpenAI API Key and will be charged for each API call ([OpenAI Pricing](https://openai.com/pricing)). Running the Llama2-Chat and Mixtral-8x7B models require Nvidia graphics cards (~300GB VRAM needed for Llama2-70B in full precision and ~160GB VRAM needed for Llama2-70B, quantized to float16).
@@ -130,7 +133,7 @@ To evaluate the performance of LLMs, use the `evaluate.py` script, which has the
 
 -   `--result_path`: specify the path to the resulting JSON file.
 -   `--location_granularity`: specify whether the LLMs is evaluated with $`\texttt{Loc}_{coarse}`$ (`coarse`) or $`\texttt{Loc}_{fine}`$ (`fine`).
--   `--perspective`: specify which role's (*mover* or *observer*) perspective you wish to evaluate. Defaults to `all` (evaluate questions from all perspectives). 
+-   `--perspective`: specify which role's (*mover* or *observer*) perspective you wish to evaluate. Defaults to `all` (evaluate questions from all perspectives).
 
 ## Bias, Risks, and Limitations
 
