@@ -54,7 +54,7 @@ All the OpenToM questions are designed to be a binary or ternary classification 
 - **Curated by:** KclNLP
 - **Funded by [optional]:** KclNLP
 - **Language(s) (NLP):** English
-- **License:** [More Information Needed]
+- **License:** Creative Commons Attribution-NonCommercial 4.0 International Public License
 
 ### Dataset Generating Process
 
